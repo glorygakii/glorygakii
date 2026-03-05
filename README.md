@@ -2,7 +2,7 @@
 
 **Data Scientist & BI Analyst** based in Nairobi, Kenya 🇰🇪
 
-I turn raw data into clear decisions — using Python, SQL, and Power BI to uncover patterns that matter. My work focuses on real-world challenges in Africa: water access, agriculture, and sustainable development.
+I turn raw data into clear decisions using Python, SQL, and Power BI to uncover patterns that matter. My work focuses on real-world challenges in Africa: water access, agriculture, and sustainable development.
 
 ---
 
