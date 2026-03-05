@@ -37,7 +37,7 @@ Built a modular Python data pipeline to analyse crop yield patterns against clim
 
 ## 📊 GitHub Stats
 
-![Glory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glorygakii&show_icons=true&theme=default&hide_border=true)
+![Glory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glorygakii&show_icons=true&count_private=true&theme=default&hide_border=true&cache_seconds=1800)
 
 ---
 
