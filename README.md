@@ -41,7 +41,6 @@ Built a modular Python data pipeline to analyse crop yield patterns against clim
 ---
 
 ## 🔗 Connect with Me
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-glorygakii.com-teal?style=flat&logo=google-chrome&logoColor=white)](https://glorygakii.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Glory%20Gakii-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/glorygakii)
-[![Email](https://img.shields.io/badge/Email-gakiimbiti6@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gakiimbiti6@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-glorygakii.com/contact-D14836?style=flat&logo=gmail&logoColor=white)](https://glorygakii.com/contact)
